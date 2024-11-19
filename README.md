@@ -1,4 +1,4 @@
-##👋 Hi there, I'm Mohamed El Sayed!
+## 👋 Hi there, I'm Mohamed El Sayed!
 🎓 I am in my final year as Computer Science Student at Wilfrid Laurier University
 📍 Based in Ontario, Canada |
 💻 Aspiring Software Engineer | Passionate about coding, big data, and empowering communities
