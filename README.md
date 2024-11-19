@@ -35,8 +35,8 @@ Databases: MongoDB, MySQL
 
 
 
-📫 Let's Connect!
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamedelsayed7/)
+##📫 Let's Connect!
+LinkedIn: [Mohamed El Sayed](https://www.linkedin.com/in/mohamedelsayed7/)
 GitHub: github.com/mohamedelsayed652
 Email: mohamedhussein652@gmail.com
 <!--
