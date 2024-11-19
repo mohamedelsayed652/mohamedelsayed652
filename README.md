@@ -28,16 +28,19 @@ Databases: MongoDB, MySQL
 
 🌍 I lived in Alexandria, Egypt from 3 to 11 years old.
 
-⚽ Passionate about soccer, my favourite team is Arsenal!
+⚽ Passionate about soccer, my favourite team is Arsenal ( COYG🔴⚪🔴⚪🔴)!
 
 
 
 
 
 
-##📫 Let's Connect!
+### 📫 Let's Connect!
+
 LinkedIn: [Mohamed El Sayed](https://www.linkedin.com/in/mohamedelsayed7/)
+
 GitHub: github.com/mohamedelsayed652
+
 Email: mohamedhussein652@gmail.com
 <!--
 **mohamedelsayed652/mohamedelsayed652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
