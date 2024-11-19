@@ -7,13 +7,13 @@
 
 ### 🤔 I’m looking for post-graduation opportunities in Data Science / Software Development
 
-🌟 Interests:
+### 🌟 Interests:
 
 Software development
 Big data & distributed systems
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Languages: Python, C, JavaScript, SQL
 
@@ -23,7 +23,8 @@ Tools & Frameworks: Node.js, Hadoop, Pig Latin, Hive, Git, Docker
 
 Databases: MongoDB, MySQL
 
-🌟 Fun Facts
+
+### 🌟 Fun Facts
 
 🌍 I lived in Alexandria, Egypt from 3 to 11 years old.
 
