@@ -14,13 +14,19 @@ Big data & distributed systems
 
 
 🛠️ Tech Stack
+
 Languages: Python, C, JavaScript, SQL
+
 Web Development: React, HTML, CSS
+
 Tools & Frameworks: Node.js, Hadoop, Pig Latin, Hive, Git, Docker
+
 Databases: MongoDB, MySQL
 
 🌟 Fun Facts
+
 🌍 I lived in Alexandria, Egypt from 3 to 11 years old.
+
 ⚽ Passionate about soccer, my favourite team is Arsenal!
 
 
