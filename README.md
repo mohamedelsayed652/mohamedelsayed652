@@ -3,7 +3,7 @@
 
 📍 Based in Ontario, Canada
 
-💻 Aspiring Software Engineer | Passionate about coding, big data, and empowering communities
+💻 Aspiring Software Engineer | Passionate about coding, big data, and empowering businesses
 
 ### 🤔 I’m looking for post-graduation opportunities in Data Science / Software Development
 
