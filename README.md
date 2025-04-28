@@ -19,7 +19,7 @@ Big data & distributed systems
 
 Languages: Python, C, JavaScript, SQL
 
-Web Development: React, HTML, CSS
+Web Development: PHP, HTML, CSS
 
 Tools & Frameworks: Node.js, Hadoop, Pig Latin, Hive, Git, Docker
 
