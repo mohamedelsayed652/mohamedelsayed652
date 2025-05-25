@@ -1,21 +1,21 @@
-## 👋 Hi there, I'm Mohamed El Sayed!
-🎓 I just finished my studies as Computer Science Student with a concentration in Big Data Systems and a minor in Economics at Wilfrid Laurier University
+##  Hi there, I'm Mohamed El Sayed!
+ I just finished my studies as Computer Science Student with a concentration in Big Data Systems and a minor in Economics at Wilfrid Laurier University
 
-📍 Based in Ontario, Canada
+ Based in Ontario, Canada
 #### open to relocate
 
-💻 Aspiring Software Engineer | Passionate about coding, big data, and empowering businesses
+ Aspiring Software Engineer | Passionate about coding, big data, and empowering businesses
 
-### 🤔 I’m looking for opportunities in Data Science / Software Development
+### I’m looking for opportunities in Data Science / Software Development
 #### Graduated April 2025
 
-### 🌟 Interests:
+###  Interests:
 
 Software development
 Big data & distributed systems
 
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 Languages: Python, C, JavaScript, SQL
 
@@ -26,11 +26,11 @@ Tools & Frameworks: Node.js, Hadoop, Pig Latin, Hive, Git, Docker
 Databases: MongoDB, MySQL
 
 
-### 🌟 Fun Facts
+###  Fun Facts
 
-🌍 I lived in Alexandria, Egypt from 3 to 11 years old.
+ I lived in Alexandria, Egypt from 3 to 11 years old.
 
-⚽ Passionate about soccer, my favourite team is Arsenal ( COYG🔴⚪🔴⚪🔴)!
+ Passionate about soccer, my favourite team is Arsenal ( COYG🔴⚪🔴⚪🔴)!
 
 
 
