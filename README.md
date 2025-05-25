@@ -1,6 +1,9 @@
 ##  Hi there, I'm Mohamed El Sayed!
  I just finished my studies as Computer Science Student with a concentration in Big Data Systems and a minor in Economics at Wilfrid Laurier University
 
+ ### Visit my website!
+ [Mohamed El Sayed](https://mohamed-portfolio-website.vercel.app)
+
  Based in Ontario, Canada
 #### open to relocate
 
@@ -37,7 +40,7 @@ Databases: MongoDB, MySQL
 
 
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 LinkedIn: [Mohamed El Sayed](https://www.linkedin.com/in/mohamedelsayed7/)
 
