@@ -1,7 +1,6 @@
 ##  Hi there, I'm Mohamed El Sayed!
  I just finished my studies as a Computer Science undergrad student with a concentration in Big Data Systems and a minor in Economics at Wilfrid Laurier University
 
- Based in Ontario, Canada
 #### open to relocate
 
  - Visit my website! : [Mohamed El Sayed](https://mohamed-portfolio-website.vercel.app)
