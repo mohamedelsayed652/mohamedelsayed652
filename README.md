@@ -1,36 +1,46 @@
-##  Hi there, I'm Mohamed El Sayed!
- I just finished my studies as a Computer Science undergrad student with a concentration in Big Data Systems and a minor in Economics at Wilfrid Laurier University
+## Hi, I’m Mohamed El Sayed 👋
 
-#### open to relocate
+I’m a **Computer Science graduate (April 2025)** with a concentration in **Big Data Systems** and a minor in **Economics**, focused on building **cloud-based and data-driven systems**.
 
- - Visit my website! : [Mohamed El Sayed](https://mohamed-portfolio-website.vercel.app)
+I’m **AWS Certified Solutions Architect – Associate** and have hands-on experience working with **AWS, Terraform, Docker, Python, and CI/CD workflows**, with a strong interest in cloud infrastructure, automation, and scalable systems.
 
+🌍 **Open to relocation**  
+🔗 **Portfolio:** https://mohamed-portfolio-website.vercel.app
 
-## - I’m looking for opportunities in Data / Software Development
-#### Graduated April 2025
+---
 
-## - Interests:
+## 💼 What I’m Looking For
+- Entry-level **Cloud Engineer / DevOps** roles  
+- Junior **Data Engineer** or **Software Engineer** roles
 
-Software development
-Big data & distributed systems
+---
 
+## 🛠 Tech Stack
 
-## - Tech Stack
+**Languages:**  
+Python, SQL, JavaScript, C  
 
-Languages: Python, C, JavaScript, SQL
+**Cloud & DevOps:**  
+AWS, Terraform, Docker, Git, Linux, GitHub Actions  
 
-Web Development: PHP, HTML, CSS
+**Data & Backend:**  
+Hadoop, Hive, Pig, MongoDB, MySQL  
 
-Tools & Frameworks: Node.js, Hadoop, Pig Latin, Hive, Git, Docker, AWS
+**Web:**  
+Node.js, HTML, CSS, PHP  
 
-Databases: MongoDB, MySQL
+---
 
+## 🚀 Interests
+- Cloud infrastructure & automation  
+- Distributed systems & big data  
+- Building reliable, scalable software systems  
 
-## - Fun Facts
+---
 
- I lived in Alexandria, Egypt from 3 to 11 years old.
-
- Passionate about soccer, my favourite team is Arsenal ( COYG🔴⚪🔴⚪🔴)!
+## ⚽ Fun Facts
+- Lived in **Alexandria, Egypt** from ages 3–11  
+- Lifelong football fan — **Arsenal supporter (COYG 🔴⚪)**  
 
 
 
