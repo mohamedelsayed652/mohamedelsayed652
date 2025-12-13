@@ -5,7 +5,7 @@ I’m a **Computer Science graduate (April 2025)** with a concentration in **Big
 I’m **AWS Certified Solutions Architect – Associate** and have hands-on experience working with **AWS, Terraform, Docker, Python, and CI/CD workflows**, with a strong interest in cloud infrastructure, automation, and scalable systems.
 
 🌍 **Open to relocation**  
-🔗 **Portfolio:** https://mohamed-portfolio-website.vercel.app
+🔗 **Portfolio:** https://mohamedthedev.com
 
 ---
 
@@ -50,8 +50,6 @@ Node.js, HTML, CSS, PHP
 ## - Let's Connect!
 
 LinkedIn: [Mohamed El Sayed](https://www.linkedin.com/in/mohamedelsayed7/)
-
-Website: mohamedthedev.com
 
 GitHub: github.com/mohamedelsayed652
 
